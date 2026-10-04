@@ -3,7 +3,7 @@
   <img src="assets/logo/powerui-logo-horizontal-light.svg#gh-light-mode-only" alt="PowerUI" height="64" />
 </p>
 
-# PowerUI
+# PowerUI for 3D Printer Screens
 
 PowerUI is a dark, card-based design system for touch displays that control 3D printers running **Klipper**. It was
 structured, created and standardized for 3D printing by **Boris Fernández (Boris SdK)**, and it is based on the design
