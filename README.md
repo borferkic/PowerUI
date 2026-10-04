@@ -22,10 +22,11 @@ built with [LVGL](https://github.com/lvgl/lvgl).
 | Folder | Content |
 |---|---|
 | [`docs/foundations`](docs/foundations) | Color tokens, typography, spacing and layout grid, iconography |
-| [`docs/components`](docs/components) | Cards, buttons, segmented groups, switches, badges, lists, dialogs and their states |
+| [`docs/components`](docs/components) | One page per component (cards, buttons, segmented groups, switches, badges, lists, dialogs) with its specification and a reference image |
 | [`docs/implementation`](docs/implementation) | How to build the components with LVGL, and the pitfalls found along the way |
-| [`docs/screens`](docs/screens) | Reference layout of each screen type (work in progress) |
+| [`docs/screens`](docs/screens) | Reference layout of each screen type (home, menus, files, filament, movement, print status) with measurements and images |
 | [`assets/logo`](assets/logo) | PowerUI logo in SVG (horizontal, stacked and symbol; dark and light) |
+| [`tools`](tools) | `render_reference.py`: renders every reference image with Lucide icons only (needs Microsoft Edge) |
 
 ## Design principles
 
@@ -37,8 +38,8 @@ built with [LVGL](https://github.com/lvgl/lvgl).
 
 ## Status
 
-Work in progress. The foundations and the component list are written; the screen references and the LVGL guide are being
-completed while PowerScreen is finished.
+Work in progress. The foundations, the component pages, six screen references and the LVGL guide are written. More screens
+(tools, fans, console, Wi-Fi, system) will be added while PowerScreen is finished.
 
 ## License and credits
 
