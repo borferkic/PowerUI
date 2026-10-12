@@ -13,6 +13,13 @@ Every screen uses the same [frame](../foundations/layout.md#frame): a top bar, a
 | Filament | [filament.md](filament.md) |
 | Movement | [movement.md](movement.md) |
 | Print status | [print-status.md](print-status.md) |
+| Fans | [fans.md](fans.md) |
+| Input shaper | [input-shaper.md](input-shaper.md) |
+| Limits | [limits.md](limits.md) |
+| Belts / Shake | [belts.md](belts.md) |
+| Console | [console.md](console.md) |
+| Wi-Fi | [wifi.md](wifi.md) |
+| System | [system.md](system.md) |
 
-More screens (tools such as input shaper, fans, console, Wi-Fi, system) will be added. The images are rendered by
+The images are rendered by
 [`tools/render_reference.py`](../../tools/render_reference.py).
